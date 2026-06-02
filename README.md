@@ -1,6 +1,6 @@
 # AI FAQ Chatbot
 
-This project is developed for the CodeAlpha Artificial Intelligence Internship.
+This project is developed for the Artificial Intelligence Internship.
 
 ## Features
 
