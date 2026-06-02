@@ -1,0 +1,12 @@
+{
+    "What is Artificial Intelligence?": "Artificial Intelligence is the simulation of human intelligence by machines.",
+    "What is Machine Learning?": "Machine Learning is a subset of Artificial Intelligence that enables systems to learn from data.",
+    "What is Deep Learning?": "Deep Learning uses neural networks with many layers.",
+    "What is NLP?": "Natural Language Processing helps computers understand human language.",
+    "What is Computer Vision?": "Computer Vision enables machines to understand images and videos.",
+    "What is Python?": "Python is a popular programming language used in AI and Machine Learning.",
+    "What is Data Science?": "Data Science is the process of extracting knowledge from data.",
+    "What is a Neural Network?": "A Neural Network is a model inspired by the human brain.",
+    "What is Supervised Learning?": "Supervised Learning uses labeled data for training.",
+    "What is Unsupervised Learning?": "Unsupervised Learning finds patterns in unlabeled data."
+}
